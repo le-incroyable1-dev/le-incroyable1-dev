@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aurav
-- 👀 I’m interested in problem solving techniques and game development
-- 🌱 I’m currently learning how to code efficiently and improve game designs
+- 👀 I’m interested in problem solving techniques and mathematics. Occasionally, I go for creative stuff like game development.
+- 🌱 I’m currently learning how to code efficiently and improve game designs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out through my linkedIn. 
 
