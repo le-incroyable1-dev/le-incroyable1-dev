@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/47893192/114348679-7a9c8b00-9b84-11eb-92b1-88996c8a1b91.png)
+
 
 - 👋 Hi, I’m Aurav
 - 👀 I’m interested in problem solving techniques and mathematics. Occasionally, I go for creative stuff like game development.
