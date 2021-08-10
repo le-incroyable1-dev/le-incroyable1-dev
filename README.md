@@ -2,8 +2,7 @@
 
 - 👋 Hi, I’m Aurav
 - 👀 I’m interested in problem solving techniques and mathematics. Occasionally, I go for creative stuff like game development.
-- 🌱 I’m currently learning how to code efficiently and improve game designs.
-- 💞️ I’m looking to collaborate on a 2D multiplayer game project on Unity3D.
+- 🌱 I’m currently learning how to code efficiently.
 - 📫 You can reach out to me through my linkedIn. 
 
 <!---
