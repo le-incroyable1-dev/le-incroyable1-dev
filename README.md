@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Aurav
 - 👀 I’m interested in problem solving techniques and mathematics. Occasionally, I go for creative stuff like game development.
-- 🌱 I’m currently learning how to code efficiently.
+- 🌱 I’m currently learning how to code efficiently. I'm also learning how to use Django, a web framework that helps build quality web apps quickly.
 - 📫 You can reach out to me through my linkedIn. 
 
 <!---
