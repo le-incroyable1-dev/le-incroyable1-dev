@@ -4,8 +4,8 @@
 <br>
 
 - 👀 I’m interested in problem solving techniques and mathematics.
-- 👀 I’m working on game and VR development.
-- 🌱 I’m learning how to code efficiently and create better algorithms.
+- 👀 I’m working on Game and VR Development.
+- 🌱 I’m also learning how to code efficiently and create better algorithms.
 - 📫 You can reach out to me through my linkedIn. 
 - Fun Fact: Reading documentation is hard but heavenly
 
