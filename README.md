@@ -1,26 +1,29 @@
 
-
-
-
 ## Hi, I'm Aurav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <br>
 
-- 👋 Hi, I’m Aurav
-- 👀 I’m interested in problem solving techniques and mathematics. Working on game and VR development.
-- 🌱 I’m currently learning how to code efficiently and create better algorithms.
+- 👀 I’m interested in problem solving techniques and mathematics.
+- 👀 I’m working on game and VR development.
+- 🌱 I’m learning how to code efficiently and create better algorithms.
 - 📫 You can reach out to me through my linkedIn. 
 - Fun Fact: Reading documentation is hard but heavenly
+
+<br>
 
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&theme=midnight-purple)
 
 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=le-incroyable1-dev&theme=midnight-purple)
 
 
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=le-incroyable1-dev&layout=compact&theme=midnight-purple)](https://github.com/le-incroyable1-dev/github-readme-stats)
+
+<br>
 
 <br>
 
