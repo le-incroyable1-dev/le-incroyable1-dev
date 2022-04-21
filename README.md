@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in problem solving techniques and mathematics.
 - 📫 Open to collaboration in Game and XR Development.
-- 🌱 I’m also learning how to code efficiently and create better algorithms.
+- 🌱 I’m also learning how to code efficiently and design better algorithms.
 - 📫 You can reach out to me through my linkedIn. 
 - Fun Fact: Just google and read the docs, its enough 
 
