@@ -1,5 +1,5 @@
 
-## Hi !, I'm Aurav
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Aurav!](https://www.linkedin.com/in/aurav-s-tomar/)
 
 <br>
 
