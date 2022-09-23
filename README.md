@@ -30,6 +30,8 @@
 
 ## Tools & Technologies I use:
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> <img src="https://img.icons8.com/nolan/64/unity.png"/> <img src="https://img.icons8.com/color/48/000000/virtual-reality.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+ <img src="https://img.icons8.com/external-those-icons-flat-those-icons/344/external-HTML5-programming-and-development-those-icons-flat-those-icons.png"/> <img src="https://img.icons8.com/color/344/css3.png"/>
+
 
 
 <br>
