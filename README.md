@@ -3,16 +3,6 @@
 
 <br>
 
-- 👀 I’m interested in problem solving techniques and algorithm design and analysis.
-- 📫 Open to collaboration in Game/XR Development.
-- 🌱 I’m learning how to code efficiently and design better algorithms.
-- 📫 You can reach out to me through my linkedIn. 
-- Fun Fact: Just google and read the docs, its enough 
-
-<br>
-
-<br>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&theme=midnight-purple)
 
 
