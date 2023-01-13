@@ -3,7 +3,7 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&count_private=true)
 
 
 
