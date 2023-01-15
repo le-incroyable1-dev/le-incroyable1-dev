@@ -6,9 +6,9 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&count_private=true)
  -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=le-incroyable1-dev&show_icons=true&locale=en&layout=compact" alt="le-incroyable1-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=le-incroyable1-dev&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="le-incroyable1-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&show_icons=true&locale=en" alt="le-incroyable1-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&show_icons=true&locale=en&theme=midnight-purple" alt="le-incroyable1-dev" /></p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=le-incroyable1-dev&theme=midnight-purple)
 
