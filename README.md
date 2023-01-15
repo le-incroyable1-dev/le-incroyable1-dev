@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&show_icons=true&locale=en&theme=midnight-purple" alt="le-incroyable1-dev" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&show_icons=true&locale=en&theme=midnight-purple" alt="le-incroyable1-dev" />
 
 <br><br>
 
@@ -11,7 +11,7 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=le-incroyable1-dev&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="le-incroyable1-dev" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=le-incroyable1-dev&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="le-incroyable1-dev" />
 
 <!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=le-incroyable1-dev&layout=compact&theme=midnight-purple)](https://github.com/le-incroyable1-dev/github-readme-stats)
  -->
