@@ -3,16 +3,15 @@
 
 <br>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&count_private=true)
- -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=le-incroyable1-dev&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="le-incroyable1-dev" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&show_icons=true&locale=en&theme=midnight-purple" alt="le-incroyable1-dev" /></p>
+
+<br><br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=le-incroyable1-dev&theme=midnight-purple)
 
+<br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=le-incroyable1-dev&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="le-incroyable1-dev" /></p>
 
 <!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=le-incroyable1-dev&layout=compact&theme=midnight-purple)](https://github.com/le-incroyable1-dev/github-readme-stats)
  -->
