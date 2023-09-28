@@ -1,5 +1,5 @@
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Aurav!](https://www.linkedin.com/in/aurav-s-tomar/)
+Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Aurav!](https://www.linkedin.com/in/aurav-s-tomar/)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&show_icons=true&locale=en&theme=slateorange" alt="le-incroyable1-dev" />
