@@ -1,4 +1,10 @@
-Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Aurav!](https://www.linkedin.com/in/aurav-s-tomar/)
+Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Aurav !](https://www.linkedin.com/in/aurav-s-tomar/)
+
+I am currently pursuing my Bachelor of Engineering degree in Computer Science and Engineering from Thapar Institute of Engineering & Technology, where I have participated in various academic and extracurricular activities. I'm skilled at data structures, algorithm design and software engineering.
+
+As a Software Engineer Intern at Salesforce, I designed and developed innovative solutions for A/B Testing in the Commerce Cloud while working on the backend of the e-commerce platform. I collaborated with a diverse team of engineers to deliver a prototype that met the user needs and expectations.
+
+I am passionate about learning new technologies and creating immersive and engaging experiences for users. I am looking for opportunities to further enhance my skills and competencies in the fields of software engineering and game development.
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&show_icons=true&locale=en&theme=slateorange" alt="le-incroyable1-dev" />
