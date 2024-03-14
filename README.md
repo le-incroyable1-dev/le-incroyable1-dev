@@ -4,6 +4,8 @@ I am a **senior currently pursuing my Bachelor of Engineering degree in Computer
 
 **I previously interned as a software engineer at Salesforce**, where I designed and developed innovative solutions for A/B Testing in the Commerce Cloud while working on the backend of the e-commerce platform. I collaborated with a diverse team of engineers to deliver a working prototype, supported by unit tests, functional tests, and a detailed documentation. I am passionate about learning new technologies and creating immersive and engaging experiences for users. **I am looking for opportunities to further enhance my skills and competencies in the field of software engineering.**
 
+[**Connect with me here !**](https://linktr.ee/auravaces)
+
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=le-incroyable1-dev&show_icons=true&locale=en&theme=slateorange" alt="le-incroyable1-dev" />
 
