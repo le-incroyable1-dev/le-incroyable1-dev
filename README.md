@@ -1,8 +1,8 @@
 Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Aurav !](https://www.linkedin.com/in/aurav-s-tomar/)
 
-I am a senior currently pursuing my Bachelor of Engineering degree in Computer Science and Engineering from Thapar Institute of Engineering & Technology (TIET). I am skilled at data structures, algorithm design and software engineering. If not learning something new, you can probably find me playing the latest RPG or binge watching something on Netflix. Sometimes, I also feel inspired to go for a refreshing workout.
+I'm a senior pursuing a Bachelor of Engineering in Computer Science and Engineering from Thapar University. I am skilled in data structures, algorithm design, and software engineering. If not learning something new, you can probably find me playing the latest RPG or binge-watching something on Netflix. Sometimes, I also feel inspired to go for a refreshing workout.
 
-I previously interned as a software engineer at Salesforce, where I designed and developed innovative solutions for A/B Testing in the Commerce Cloud while working on the backend of the e-commerce platform. I am passionate about learning new technologies and creating immersive and engaging experiences for users. I am looking for opportunities to further enhance my skills and competencies in the field of software engineering.
+I am interested in machine learning and currently working as an undergraduate AI researcher at Netaji Subhas University of Technology, Delhi. I previously interned as a software engineer at Salesforce, where I designed and developed innovative solutions for A/B Testing in the B2B Commerce Cloud. I am passionate about learning new technologies and creating immersive and engaging experiences for users. I am looking for opportunities to further enhance my skills and competencies in software engineering.
 
 [**Connect with me here!**](https://linktr.ee/auravaces)
 
