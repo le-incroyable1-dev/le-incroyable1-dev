@@ -20,7 +20,7 @@ I am interested in machine learning and currently working as a researcher at NSU
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=le-incroyable1-dev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=le-incroyable1-dev&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+ <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=le-incroyable1-dev&layout=compact&exclude_lang=java+r&theme=vue-dark" /> -->
 </a>
 </p>
 
