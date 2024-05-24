@@ -12,7 +12,7 @@ I am interested in machine learning and currently working as a researcher at NSU
 
 I'm a Computer Science senior at Thapar University. I am skilled in data structures, algorithm design, and software engineering. When I'm free, you can probably find me playing the latest RPG or binge-watching something on Netflix. Sometimes, I also feel inspired to go for a refreshing workout.
 
-I am interested in machine learning and currently working as a researcher at NSUT Delhi. Previously, I interned as a software engineer at Salesforce in the B2B Commerce Cloud. I am passionate about learning new technologies and creating immersive and engaging experiences for users. I am looking for opportunities to further enhance my skills and competencies.
+I am interested in machine learning and currently working as a researcher at NSUT Delhi. I'm also part of the Research Team at the (Georgia Tech) Financial Services Innovation Lab. Previously, I interned as a software engineer at Salesforce in the B2B Commerce Cloud. I am passionate about learning new technologies and creating immersive and engaging experiences for users. I am looking for opportunities to further enhance my skills and competencies.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
